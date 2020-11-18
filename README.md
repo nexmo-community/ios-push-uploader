@@ -13,6 +13,12 @@ If you're new to Vonage, you can [sign up for a Vonage API account](https://dash
 
 After cloning the project to your machine, install the dependencies with `npm install` and run the server with `node server.js`.
 
+Alternatively,
+
+<a href="https://heroku.com/deploy?template=https://github.com/nexmo-community/ios-push-uploader" target="_blank">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+
 ## Getting Help
 
 We love to hear from you so if you have questions, comments or find a bug in the project, let us know! You can either:
