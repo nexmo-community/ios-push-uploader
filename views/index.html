@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="A cool thing made with Glitch" />
+    <script type="module" src="/script.js" defer></script>
+
+    <title>Vonage Push notification uploader</title>
+  </head>
+
+  <body>
+    <img
+      src="https://developer.nexmo.com/assets/images/Vonage_Nexmo.svg"
+      height="48px"
+      alt="Nexmo is now known as Vonage"
+    />
+    <br />
+    <form>
+      <label>
+        App ID
+        <input name="appid" type="text" required />
+      </label>
+      <br />
+      <label>
+        Private key
+        <input name="privatekey" type="file" accept=".key" required />
+      </label>
+      <br />
+      <label>
+        certificate (.p12)
+        <input name="certificate" type="file" accept=".p12" required />
+      </label>
+      <br />
+      <button type="submit" id="submit-dream">Upload</button>
+    </form>
+    Status:
+    <span id="status"></span>
+  </body>
+</html>
