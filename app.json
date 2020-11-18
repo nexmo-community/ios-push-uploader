@@ -3,5 +3,6 @@
   "description": "an online alternative for uploading your push certificates to Vonage.",
   "repository": "https://github.com/nexmo-community/ios-push-uploader",
   "logo": "https://developer.nexmo.com/assets/images/Vonage_Nexmo.svg",
-  "keywords": ["node", "express"]
+  "keywords": ["node", "express"],
+  "image": "heroku/nodejs"
 }
