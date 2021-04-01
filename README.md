@@ -4,7 +4,7 @@
 
 This project is an online alternative for uploading your iOS push certificates to Vonage. You can learn more about it in the [push notifications guide](https://developer.nexmo.com/client-sdk/setup/set-up-push-notifications/ios#upload-your-certificate).
 
-The Android version of this tool can be found [here](https://github.com/nexmo-community/ios-push-uploader).
+The Android version of this tool can be found [here](https://github.com/nexmo-community/android-push-uploader).
 
 ## Welcome to Vonage
 
