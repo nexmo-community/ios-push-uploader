@@ -2,7 +2,9 @@
 
 <img src="https://developer.nexmo.com/assets/images/Vonage_Nexmo.svg" height="48px" alt="Nexmo is now known as Vonage" />
 
-This project is an online alternative for uploading your push certificates to Vonage. You can learn more about it in the [push notifications guide](https://developer.nexmo.com/client-sdk/setup/set-up-push-notifications/ios#upload-your-certificate).
+This project is an online alternative for uploading your iOS push certificates to Vonage. You can learn more about it in the [push notifications guide](https://developer.nexmo.com/client-sdk/setup/set-up-push-notifications/ios#upload-your-certificate).
+
+The Android version of this tool can be found [on GitHub](https://github.com/nexmo-community/android-push-uploader).
 
 ## Welcome to Vonage
 
@@ -54,4 +56,3 @@ This project is subject to the [MIT License][license]
 [license]: LICENSE "MIT License"
 
 [issues]: ./../../issues "Issues"
-
