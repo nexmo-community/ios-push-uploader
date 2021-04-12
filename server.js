@@ -92,7 +92,7 @@ async function processFiles(files, appId) {
 }
 
 const listener = app.listen(process.env.PORT, () => {
-  console.log("Your app is listening on port " + listener.address().port);
+  console.log("App available at: http://localhost:" + listener.address().port + "/");
 });
 
 function getJwt(appId, privateKeyBuffer) {
